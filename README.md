@@ -16,7 +16,7 @@ This plugin allows to add Pages that trigger a redirect to any other URL. You ca
 ## Git Setup
 
 1. Open a shell at the root of your Kirby or Kirby Starterkit installation.
-2. Run `git submodule add -b master --name blog git@github.com:moritzz/Kirby-Link.git site/plugins/link`
+2. Run `git submodule add -b master --name link git@github.com:moritzz/Kirby-Link.git site/plugins/link`
 
 # Example Setup
 
@@ -33,3 +33,4 @@ To add the link to the external service to your navigation, set the status of yo
 # Version history
 
 - v1.0: First official version
+- v1.0.1: Fixed installation instructions
