@@ -1,7 +1,7 @@
 <?php 
   
 /**
-* Basic Blog page model
+* Basic Link page model
 */
 
 class LinkPage extends Page {
