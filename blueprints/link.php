@@ -1,7 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Link
-pages: false
+pages: link
 files: false
 icon: external-link-square
 fields:
